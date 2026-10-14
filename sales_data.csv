@@ -1,0 +1,14 @@
+
+OrderID,Customer,Product,Quantity,Price,OrderDate,City
+101,Ravi,Laptop,1,45000,2026-01-05,Guntur
+102,Sita,Mobile,2,15000,2026-01-06,Vijayawada
+103,Rahul,Headphones,3,1000,2026-01-07,Guntur
+104,Anu,Keyboard,2,800,2026-01-08,Hyderabad
+105,Ravi,Laptop,1,45000,2026-01-05,Guntur
+106,Meena,Mobile,,15000,2026-01-10,Vijayawada
+107,Kiran,Mouse,4,500,2026-01-11,Hyderabad
+108,Sita,Mobile,2,15000,2026-01-12,Vijayawada
+109,Arjun,Monitor,1,8000,2026-01-13,
+110,Priya,Keyboard,2,800,2026-01-14,Guntur
+111,  Ramesh  , Mouse ,2,500,2026-01-15,Hyderabad
+112,Divya,Laptop,1,45000,2026-01-16,Guntur
